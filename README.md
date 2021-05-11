@@ -1,5 +1,5 @@
 # Fullstack
-You can access the files by choosing the Master Branch from the above meny
+# You can access the files by choosing the Master Branch from the above menu
 
 Files inside
 
